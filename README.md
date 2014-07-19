@@ -1,1 +1,0 @@
-This folder just for me to backup my python program. There are many small project.
